@@ -4,6 +4,7 @@ public class Missingnumber
 {
     public static void main(String[] args) throws IOException
     {
+    // In mathematical approach 
        long n, s = 0, ele;
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextLong();
